@@ -4,14 +4,20 @@ Sql project-English premier league database
 English Premier League Database
 This project is an SQL database for managing data related to the English Premier League (EPL), including information about clubs, players, matches, bookings, goals, injuries, managers, referees, stadiums, standings, transfers, trophies, and more.
 
-Table of Contents
+Table of Contents:
+
 Introduction
+
 Database Structure
+
 Tables
+
 Data
+
 Queries
-Contributing
-License
+
+
+
 Introduction
 The English Premier League Database is designed to store and manage various aspects of the EPL, such as clubs, players, matches, and more. It provides a structured and relational database schema to facilitate the organization and retrieval of football-related data.
 
